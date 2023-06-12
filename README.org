@@ -1,0 +1,10 @@
+* freesound
+
+A Common Lisp client for freesound.org
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ntrocado/freesound.git   |
+| commit  | d417076  |
+| systems | freesound |
+|---------+-------------------------------------------|
+
